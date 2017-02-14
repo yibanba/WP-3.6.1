@@ -1,0 +1,12 @@
+
+# Netbeans Project Dir #
+/nbproject/
+
+# Test is a temp dir #
+/test/
+
+# Jump to main dir/index.php #
+index.html
+
+# The files in the main directory, The base configurations of the WordPress #
+/Valentine/wp-config.php

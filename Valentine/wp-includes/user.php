@@ -1374,7 +1374,7 @@ function wp_insert_user( $userdata ) {
 		$user_registered = gmdate('Y-m-d H:i:s');
 
 	if ( empty($show_admin_bar_front) )
-		$show_admin_bar_front = 'true';
+		$show_admin_bar_front = 'false';
 
 	$user_nicename_check = $wpdb->get_var( $wpdb->prepare("SELECT ID FROM $wpdb->users WHERE user_nicename = %s AND user_login != %s LIMIT 1" , $user_nicename, $user_login));
 

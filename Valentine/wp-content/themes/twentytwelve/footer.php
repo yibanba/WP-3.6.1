@@ -12,7 +12,7 @@
 	</div><!-- #main .wrapper -->
 	<footer id="colophon" role="contentinfo">
 		<div class="site-info">
-                    <a href="http://www.yibanba.com" title="一般吧">一般吧网站: www.yibanba.com &nbsp; &copy;2017-2-14 &nbsp; E-mail: yibanba@hotmail.com</a>
+                    &copy;2017-2-14 &nbsp; 一般吧 www.yibanba.com &nbsp; E-mail: yibanba@hotmail.com
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
